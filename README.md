@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI, Blockchain**
 
-- 💬 Ask me about **Python, Apache, Airflow, DBT, Data Warehouse development, ETL**
+- 💬 Ask me about **Python, Data Analysis, Data Visualization, Machine Learning, PowerBI, Data Engineering, Airflow, ETL**
 
 - 📫 How to reach me **mints4god@gmail.com**
 
